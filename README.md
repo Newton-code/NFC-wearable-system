@@ -7,12 +7,12 @@ It also includes a **Feeding Program module**, where students’ meals (Breakfas
 
 ---
 
-## 🚧 Project Status: Work in Progress
+##  Project Status: Work in Progress
 
 This repository contains the ongoing development of the NFC wearable integration system.  
 The code will be continuously updated as I make progress.  
 
-### ✅ Currently Implemented
+### Currently Implemented
 - Node.js backend setup (Express + MongoDB)  
 - React frontend structure (Vite + React)  
 - **Feeding Program module**:  
@@ -21,7 +21,7 @@ The code will be continuously updated as I make progress.
   - Stored with timestamps in MongoDB  
 - Basic student database model  
 
-### 🔜 Planned Features
+### Planned Features
 - Parent confirmation with OTP during student drop-off  
 - Real-time notifications to parents when students check in/out  
 - Admin dashboard with monitoring and logs (including feeding program analytics)  
